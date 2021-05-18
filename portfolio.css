@@ -1,0 +1,37 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-image: url("portfoliobackground.jpg");
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-size: 100% 100%;
+  padding: 20px;
+  font-family: Papyrus;
+}
+.alap {
+  max-width: 1000px;
+  margin: auto;
+}
+
+h1 {
+  font-size: 100px;
+  word-break: break-all;
+  font-family: Monaco;
+}
+
+.sor {
+  margin: 8px -16px;
+}
+
+.oszlop {
+  float: left;
+  width:33%;
+}
+
+
+.tartalom {
+  background-color: transperent;
+  padding: 5px;
+}
